@@ -1,0 +1,11 @@
+.\objects\thread.o: rt-thread\src\thread.c
+.\objects\thread.o: .\rt-thread\include\rthw.h
+.\objects\thread.o: .\rt-thread\include\rtthread.h
+.\objects\thread.o: .\User\rtconfig.h
+.\objects\thread.o: .\rt-thread\include\rtdebug.h
+.\objects\thread.o: .\rt-thread\include\rtdef.h
+.\objects\thread.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\thread.o: .\rt-thread\include\rtservice.h
+.\objects\thread.o: .\rt-thread\include\rtm.h
+.\objects\thread.o: .\rt-thread\include\rtthread.h
+.\objects\thread.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
